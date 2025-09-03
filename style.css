@@ -1,0 +1,47 @@
+body {
+    background-image: url('Image/Couleur bleu.svg');
+    background-size: cover;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+}
+
+.MesImages {
+    text-align: center;
+    size: 10px;
+}
+
+.MonImage {
+    width: 380px;
+    height: auto;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.Text {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.MonBouton {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    border: none;
+    margin-left: 45%;
+    cursor: pointer;
+    color: #ffffff;
+}
+.MonBouton:hover {
+    background-color: #45a049;
+    padding: 12px;
+    font-size: 20px;
+    border-radius: 5px;
+}
