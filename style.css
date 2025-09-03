@@ -1,6 +1,8 @@
 body {
     background-image: url('Image/Couleur bleu.svg');
     background-size: cover;
+    height: 500px;
+    margin: auto;
 }
 
 h1 {
@@ -13,6 +15,7 @@ h1 {
 .MesImages {
     text-align: center;
     size: 10px;
+
 }
 
 .MonImage {
@@ -44,4 +47,10 @@ h1 {
     padding: 12px;
     font-size: 20px;
     border-radius: 5px;
+}
+
+main {
+    background-color: #205281;
+    height: 200px;
+    margin: auto;
 }
