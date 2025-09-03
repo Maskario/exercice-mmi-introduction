@@ -6,16 +6,15 @@ body {
 }
 
 h1 {
-    color: #ffffff;
-    text-align: center;
     font-family: Arial, sans-serif;
+    color: #ffffff;
+    text-align: center; 
     font-size: 50px;
 }
 
 .MesImages {
     text-align: center;
     size: 10px;
-
 }
 
 .MonImage {
@@ -54,3 +53,4 @@ main {
     height: 200px;
     margin: auto;
 }
+
